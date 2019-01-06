@@ -1,0 +1,9 @@
+
+# OSx junk
+.DS_Store
+
+# vim junk
+*~
+
+# tmp junk
+tmp/
